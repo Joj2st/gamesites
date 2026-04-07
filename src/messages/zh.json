@@ -1,0 +1,83 @@
+{
+  "nav": {
+    "categories": "游戏分类",
+    "popular": "热门游戏",
+    "latest": "最新游戏",
+    "playNow": "立即游玩",
+    "search": "搜索游戏...",
+    "today": "今天是"
+  },
+  "hero": {
+    "featured": "精选游戏",
+    "title": "Geometry Dash 在线版",
+    "description": "体验终极节奏跑酷挑战 - 跳跃、飞行、翻越危险的通道！",
+    "playButton": "立即游玩 - 免费畅玩",
+    "share": "分享",
+    "players": "250万+ 玩家",
+    "rating": "4.8 评分",
+    "trending": "热门趋势"
+  },
+  "categories": {
+    "title": "游戏分类",
+    "viewAll": "查看全部",
+    "action": "动作游戏",
+    "puzzle": "益智游戏",
+    "racing": "竞速游戏",
+    "sports": "体育游戏",
+    "adventure": "冒险游戏",
+    "games": "个游戏"
+  },
+  "popular": {
+    "title": "热门游戏",
+    "viewAll": "查看全部",
+    "plays": "次游玩"
+  },
+  "game": {
+    "play": "在线游玩 Geometry Dash",
+    "hint": "点击游戏区域开始游戏，使用方向键或点击控制",
+    "mobileHint": "移动端建议横屏游玩以获得最佳体验",
+    "fullscreenTip": "💡 提示：点击游戏区域后，可使用游戏内的全屏按钮"
+  },
+  "latest": {
+    "title": "最新游戏",
+    "viewAll": "查看全部",
+    "new": "新游戏"
+  },
+  "features": {
+    "title": "游戏特色",
+    "rhythm": {
+      "title": "节奏玩法",
+      "description": "跟随动感的电子音乐节拍跳跃"
+    },
+    "modes": {
+      "title": "多种游戏模式",
+      "description": "体验不同的游戏风格和挑战"
+    },
+    "replayability": {
+      "title": "无限重玩性",
+      "description": "练习关卡，不断提升你的技能"
+    }
+  },
+  "footer": {
+    "brand": "GameStation",
+    "description": "您的终极免费在线游戏目的地。随时随地畅玩！",
+    "quickLinks": "快速链接",
+    "legal": "法律声明",
+    "legalText": "这是一个粉丝制作的娱乐网站。Geometry Dash 是 RobTop Games 的商标。我们与 RobTop Games 没有任何关联。",
+    "copyright": "© 2026 GameStation. 保留所有权利。随时随地畅玩免费在线游戏。"
+  },
+  "orientation": {
+    "hint": "请旋转设备至横屏模式以获得最佳游戏体验"
+  },
+  "toast": {
+    "searching": "正在搜索 \"{query}\"...",
+    "linkCopied": "链接已复制！",
+    "linkCopiedDesc": "游戏链接已复制到剪贴板！",
+    "fullscreenError": "全屏不可用",
+    "fullscreenErrorDesc": "全屏功能受游戏服务器限制。请使用横屏模式获得最佳体验，或尝试游戏内的全屏按钮。",
+    "learnMore": "了解更多",
+    "tips": "提示",
+    "tipsDesc": "旋转设备至横屏模式以获得更好的游戏体验！",
+    "gotIt": "知道了"
+  }
+}

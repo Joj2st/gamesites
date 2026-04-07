@@ -1,0 +1,83 @@
+{
+  "nav": {
+    "categories": "Categories",
+    "popular": "Popular",
+    "latest": "Latest",
+    "playNow": "Play Now",
+    "search": "Search games...",
+    "today": "Today is"
+  },
+  "hero": {
+    "featured": "Featured Game",
+    "title": "Geometry Dash Online",
+    "description": "Experience the ultimate rhythm-based platformer challenge - Jump, fly, and flip through dangerous passages!",
+    "playButton": "Play Now - It's Free",
+    "share": "Share",
+    "players": "2.5M+ Players",
+    "rating": "4.8 Rating",
+    "trending": "Trending"
+  },
+  "categories": {
+    "title": "Game Categories",
+    "viewAll": "View All",
+    "action": "Action Games",
+    "puzzle": "Puzzle Games",
+    "racing": "Racing Games",
+    "sports": "Sports Games",
+    "adventure": "Adventure Games",
+    "games": "games"
+  },
+  "popular": {
+    "title": "Popular Games",
+    "viewAll": "View All",
+    "plays": "plays"
+  },
+  "game": {
+    "play": "Play Geometry Dash Online",
+    "hint": "Click the game area to start, use arrow keys or tap to control",
+    "mobileHint": "Landscape mode recommended for the best experience on mobile",
+    "fullscreenTip": "💡 Tip: Use the in-game fullscreen button after clicking the game area"
+  },
+  "latest": {
+    "title": "Latest Games",
+    "viewAll": "View All",
+    "new": "NEW"
+  },
+  "features": {
+    "title": "Game Features",
+    "rhythm": {
+      "title": "Rhythm-Based Gameplay",
+      "description": "Jump to the beat of catchy electronic music tracks"
+    },
+    "modes": {
+      "title": "Multiple Game Modes",
+      "description": "Experience different gameplay styles and challenges"
+    },
+    "replayability": {
+      "title": "Endless Replayability",
+      "description": "Practice levels and improve your skills over time"
+    }
+  },
+  "footer": {
+    "brand": "GameStation",
+    "description": "Your ultimate destination for free online games. Play anytime, anywhere!",
+    "quickLinks": "Quick Links",
+    "legal": "Legal Notice",
+    "legalText": "This is a fan-made website for entertainment purposes. Geometry Dash is a trademark of RobTop Games. We are not affiliated with RobTop Games.",
+    "copyright": "© 2026 GameStation. All rights reserved. Play free online games anytime, anywhere."
+  },
+  "orientation": {
+    "hint": "Please rotate your device to landscape mode for the best gaming experience"
+  },
+  "toast": {
+    "searching": "Searching for \"{query}\"...",
+    "linkCopied": "Link Copied!",
+    "linkCopiedDesc": "Game link copied to clipboard!",
+    "fullscreenError": "Fullscreen Not Available",
+    "fullscreenErrorDesc": "Fullscreen is restricted by the game server. Please use landscape mode for the best experience, or try the in-game fullscreen button.",
+    "learnMore": "Learn More",
+    "tips": "Tips",
+    "tipsDesc": "Rotate your device to landscape mode for a better gaming experience!",
+    "gotIt": "Got it"
+  }
+}
